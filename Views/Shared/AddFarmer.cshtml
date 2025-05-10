@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Add Farmer";
+}
+
+<h2>Add New Farmer Profile</h2>
+
+@if (ViewBag.Message != null)
+{
+    <div style="color: green;">@ViewBag.Message</div>
+}
+
+<form method="post" action="@Url.Action("AddFarmer", "Employee")">
+    <div class="form-group">
+        <label for="FullName">Full Name</label>
+        <input type="text" name="FullName" id="FullName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Location">Location</label>
+        <input type="text" name="Location" id="Location" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Contact">Contact Info</label>
+        <input type="text" name="Contact" id="Contact" required />
+    </div>
+
+    <button type="submit" class="btn-primary">Save Farmer</button>
+</form>

@@ -1,0 +1,41 @@
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\appsettings.json
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\Agri-Energy Connect.staticwebassets.runtime.json
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\Agri-Energy Connect.exe
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\Agri-Energy Connect.deps.json
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\Agri-Energy Connect.runtimeconfig.json
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\Agri-Energy Connect.dll
+C:\Users\decla\source\repos\Agri-Energy Connect\bin\Debug\net8.0\Agri-Energy Connect.pdb
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.AssemblyInfoInputs.cache
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.AssemblyInfo.cs
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.csproj.CoreCompileInputs.cache
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.RazorAssemblyInfo.cache
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.RazorAssemblyInfo.cs
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets\msbuild.Agri-Energy Connect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets\msbuild.build.Agri-Energy Connect.props
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Agri-Energy Connect.props
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Agri-Energy Connect.props
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\scopedcss\bundle\Agri-Energy Connect.styles.css
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\scopedcss\projectbundle\Agri-Energy Connect.bundle.scp.css
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.dll
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\refint\Agri-Energy Connect.dll
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.pdb
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.genruntimeconfig.cache
+C:\Users\decla\source\repos\Agri-Energy Connect\obj\Debug\net8.0\ref\Agri-Energy Connect.dll
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.csproj.AssemblyReference.cache
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.AssemblyInfoInputs.cache
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.AssemblyInfo.cs
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.csproj.CoreCompileInputs.cache
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.RazorAssemblyInfo.cache
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.RazorAssemblyInfo.cs
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.dll
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\refint\Agri-Energy Connect.dll
+C:\Users\decla\Agri-Energy Connect\obj\Debug\net8.0\Agri-Energy Connect.pdb
