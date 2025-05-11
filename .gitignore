@@ -1,0 +1,50 @@
+﻿# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Ignore ASP.NET temp files
+**/wwwroot/lib/
+
+# Ignore package management files
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Ignore publish directory
+publish/
+
+# Ignore JetBrains Rider project settings
+.idea/
+
+# Ignore ReSharper settings
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Ignore backup files
+*.bak
+
+# Ignore JSON schema cache
+.schemastore/
+
+# Ignore EF Core Migrations snapshot files (optional)
+*MigrationsSnapshot.cs
+
+.vs/
+bin/
+obj/

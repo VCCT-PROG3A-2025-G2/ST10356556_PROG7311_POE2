@@ -1,97 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\",
+  "WorkspaceRootPath": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250511143125_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250511143125_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\farmerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\farmerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\farmerlogin.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\farmerlogin.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerlogin.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\agri-energy connect\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -102,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,84 +134,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250511143125_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250511143125_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250511143125_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250511143125_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250511143125_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:31:25.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:10:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\Source\\Repos\\PROG7311_POE2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\decla\\Source\\Repos\\PROG7311_POE2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:09:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:10:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:27:25.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "Controllers\\FarmerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:27:39.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T13:33:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:30:08.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Program.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T19:11:57.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "Models\\Products.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\Products.cs",
-              "RelativeToolTip": "Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:10:24.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Farmer.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\Farmer.cs",
-              "RelativeDocumentMoniker": "Models\\Farmer.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\Farmer.cs",
-              "RelativeToolTip": "Models\\Farmer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:10:13.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:10:04.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:09:11.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ViewProducts.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\ViewProducts.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\ViewProducts.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\ViewProducts.cshtml",
-              "RelativeToolTip": "Views\\Shared\\ViewProducts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:53:49.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "FarmerLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\FarmerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FarmerLogin.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\FarmerLogin.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
               "RelativeToolTip": "Views\\Shared\\FarmerLogin.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -215,11 +267,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
+              "Title": "ViewProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\ViewProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\ViewProducts.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\ViewProducts.cshtml",
+              "RelativeToolTip": "Views\\Shared\\ViewProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:53:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Farmer.cs",
+              "RelativeToolTip": "Models\\Farmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:10:13.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -227,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "EmployeeLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\EmployeeLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeLogin.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\EmployeeLogin.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\EmployeeLogin.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeLogin.cshtml",
               "RelativeToolTip": "Views\\Shared\\EmployeeLogin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,35 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:27:25.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FarmerController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Controllers\\FarmerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FarmerController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Controllers\\FarmerController.cs",
-              "RelativeToolTip": "Controllers\\FarmerController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:27:39.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "EmployeeDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\EmployeeDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeDashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\EmployeeDashboard.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\EmployeeDashboard.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeDashboard.cshtml",
               "RelativeToolTip": "Views\\Shared\\EmployeeDashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -275,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AddFarmer.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\AddFarmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddFarmer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\AddFarmer.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\AddFarmer.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddFarmer.cshtml",
               "RelativeToolTip": "Views\\Shared\\AddFarmer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -287,23 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:30:08.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\AddProduct.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddProduct.cshtml",
               "RelativeToolTip": "Views\\Shared\\AddProduct.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -311,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -323,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -335,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FarmerDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\FarmerDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerDashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FarmerDashboard.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\FarmerDashboard.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerDashboard.cshtml",
               "RelativeToolTip": "Views\\Shared\\FarmerDashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -347,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "FarmerLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\FarmerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FarmerLogin.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\FarmerLogin.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
               "RelativeToolTip": "Views\\Shared\\FarmerLogin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -359,23 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:11:29.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -383,11 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwEgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -395,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\Agri-Energy Connect\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kpDU/F0Nux8=",
+  "dgSpecHash": "kiOZaYAGEsk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\decla\\Agri-Energy Connect\\Agri-Energy Connect.csproj",
+  "projectFilePath": "C:\\Users\\decla\\Source\\Repos\\PROG7311_POE2\\Agri-Energy Connect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\decla\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\decla\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

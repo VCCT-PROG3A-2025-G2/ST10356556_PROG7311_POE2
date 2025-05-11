@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿namespace Agri_Energy_Connect.Data;
+using Microsoft.EntityFrameworkCore;
 using Agri_Energy_Connect.Models;
 
 public class ApplicationDbContext : DbContext

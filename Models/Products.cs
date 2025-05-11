@@ -7,7 +7,7 @@
         public string ProductName { get; set; }
         public string Category { get; set; }
         public DateTime ProductionDate { get; set; }
-        public int FarmerId { get; set; } // Optional: link product to farmer
+        public int FarmerId { get; set; }
     }
 }
 

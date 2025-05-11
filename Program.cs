@@ -1,12 +1,13 @@
 using Microsoft.Extensions.Configuration;
-
+using Microsoft.EntityFrameworkCore;
+using Agri_Energy_Connect.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
 var app = builder.Build();

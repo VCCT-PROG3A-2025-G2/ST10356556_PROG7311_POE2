@@ -1,7 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Agri_Energy_Connect.Data;
+using Agri_Energy_Connect.Models;
 
 public class EmployeeController : Controller
 {
+    private readonly ApplicationDbContext _context;
+
+    public EmployeeController(ApplicationDbContext context)
+    {
+        _context = context;
+    }
+
     public IActionResult EmployeeLogin()
     {
         return View();
@@ -26,11 +35,22 @@ public class EmployeeController : Controller
     }
 
 
-    [HttpPost]
-    public IActionResult AddFarmer(string FullName, string Location, string Contact)
+    [HttpGet]
+    public IActionResult AddFarmer()
     {
-        // Save farmer info to DB in the future
-        ViewBag.Message = "Farmer profile successfully added!";
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult AddFarmer(Farmer farmer)
+    {
+        if (ModelState.IsValid)
+        {
+            _context.Farmers.Add(farmer);
+            _context.SaveChanges();
+            ViewBag.Message = "Farmer profile successfully added!";
+        }
+
         return View();
     }
 
