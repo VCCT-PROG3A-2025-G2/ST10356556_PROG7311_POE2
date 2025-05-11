@@ -21,12 +21,26 @@ public class FarmerController : Controller
     [HttpPost]
     public IActionResult ValidateFarmerLogin(string Email, string Password)
     {
-        // Replace with real DB logic later
-        if (Email == "PlaceHolder@farmer.com" && Password == "password")
-            return RedirectToAction("FarmerDashboard");
+        var farmer = _context.Farmers
+            .FirstOrDefault(f => f.Email == Email && f.Password == Password);
 
-        ViewBag.Error = "Invalid credentials.";
+        if (farmer != null)
+        {
+            // Login successful — optionally store in session
+            HttpContext.Session.SetInt32("FarmerId", farmer.Id);
+            HttpContext.Session.SetString("FarmerEmail", farmer.Email);
+
+            return RedirectToAction("FarmerDashboard");
+        }
+
+        ViewBag.Error = "Invalid email or password.";
         return View("FarmerLogin");
+    }
+
+    public IActionResult Logout()
+    {
+        HttpContext.Session.Clear(); 
+        return RedirectToAction("Index", "Home");
     }
 
     public IActionResult FarmerDashboard()
@@ -43,8 +57,15 @@ public class FarmerController : Controller
     [HttpPost]
     public IActionResult AddProduct(Product product)
     {
+        var farmerId = HttpContext.Session.GetInt32("FarmerId");
+        if (farmerId == null)
+        {
+            return RedirectToAction("FarmerLogin");
+        }
+
         if (ModelState.IsValid)
         {
+            product.FarmerId = farmerId.Value; 
             _context.Products.Add(product);
             _context.SaveChanges();
             ViewBag.Message = "Product submitted successfully!";
@@ -54,11 +75,22 @@ public class FarmerController : Controller
     }
 
 
-    public IActionResult ViewFarmerProducts()
+
+    public IActionResult ViewProducts()
     {
-        var products = _context.Products.ToList();
+        var farmerId = HttpContext.Session.GetInt32("FarmerId");
+        if (farmerId == null)
+        {
+            return RedirectToAction("FarmerLogin");
+        }
+
+        var products = _context.Products
+            .Where(p => p.FarmerId == farmerId.Value)
+            .ToList();
+
         return View(products);
     }
+
 
     [HttpGet]
     public IActionResult RegisterFarmer()

@@ -38,9 +38,14 @@ public class EmployeeController : Controller
     public IActionResult EmployeeDashboard()
     {
         var farmers = _context.Farmers.ToList();
-        return View(farmers); 
+        return View(farmers);
     }
 
+    public IActionResult Logout()
+    {
+        HttpContext.Session.Clear(); 
+        return RedirectToAction("Index", "Home"); 
+    }
 
 
     [HttpGet]
@@ -62,8 +67,24 @@ public class EmployeeController : Controller
         return View();
     }
 
-    public IActionResult ViewProducts()
+    public IActionResult ViewProducts(string search, string category, DateTime? fromDate, DateTime? toDate)
     {
-        return View();
+        var query = _context.Products.AsQueryable();
+
+        if (!string.IsNullOrEmpty(search))
+            query = query.Where(p => p.ProductName.Contains(search));
+
+        if (!string.IsNullOrEmpty(category))
+            query = query.Where(p => p.Category == category);
+
+        if (fromDate.HasValue)
+            query = query.Where(p => p.ProductionDate >= fromDate.Value);
+
+        if (toDate.HasValue)
+            query = query.Where(p => p.ProductionDate <= toDate.Value);
+
+        var products = query.ToList();
+        return View(products);
     }
 }
+

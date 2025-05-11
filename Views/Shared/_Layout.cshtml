@@ -20,10 +20,50 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
+
+                        @if (Context.Session.GetInt32("EmployeeId") != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Employee" asp-action="EmployeeDashboard">Dashboard</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Employee" asp-action="AddFarmer">Add Farmer</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Employee" asp-action="ViewProducts">Farmer Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-danger" asp-controller="Employee" asp-action="Logout">Logout</a>
+                            </li>
+                        }
+                        else if (Context.Session.GetInt32("FarmerId") != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Farmer" asp-action="FarmerDashboard">Dashboard</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Farmer" asp-action="AddProduct">Add Product</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Farmer" asp-action="ViewProducts">My Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-danger" asp-controller="Farmer" asp-action="Logout">Logout</a>
+                            </li>
+                        }
                     </ul>
+
+                    @* Welcome message *@
+                    <div class="d-flex align-items-center text-end">
+                        @if (Context.Session.GetString("EmployeeEmail") != null)
+                        {
+                            <span class="me-3 text-muted">Welcome, @Context.Session.GetString("EmployeeEmail")</span>
+                        }
+                        else if (Context.Session.GetString("FarmerEmail") != null)
+                        {
+                            <span class="me-3 text-muted">Welcome, @Context.Session.GetString("FarmerEmail")</span>
+                        }
+                    </div>
                 </div>
             </div>
         </nav>
