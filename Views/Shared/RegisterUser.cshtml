@@ -1,0 +1,38 @@
+﻿@model Agri_Energy_Connect.Models.RegistrationModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register a New Account</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div style="color: red; margin-bottom: 1rem;">@ViewBag.Error</div>
+}
+
+<form asp-action="RegisterUser" method="post">
+    <div class="form-group">
+        <label asp-for="UserType">I am a:</label>
+        <select asp-for="UserType" class="form-control" required>
+            <option value="">-- Select --</option>
+            <option value="Employee">Employee</option>
+            <option value="Farmer">Farmer</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control" type="email" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password">Password</label>
+        <input asp-for="Password" class="form-control" type="password" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Register</button>
+</form>
+
+<p style="margin-top: 1rem;">
+    Already have an account? <a href="@Url.Action("LoginSelector", "Home")">Log in</a>
+</p>

@@ -59,4 +59,36 @@ public class FarmerController : Controller
         var products = _context.Products.ToList();
         return View(products);
     }
+
+    [HttpGet]
+    public IActionResult RegisterFarmer()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult RegisterFarmer(FarmerRegistrationModel model)
+    {
+        if (!ModelState.IsValid)
+        {
+            ViewBag.Error = "Please fill in all fields.";
+            return View(model);
+        }
+
+        var existingFarmer = _context.Farmers.FirstOrDefault(f => f.Email == model.Email);
+
+        if (existingFarmer != null)
+        {
+            
+            existingFarmer.Password = model.Password;
+            _context.SaveChanges();
+
+            TempData["Message"] = "Account completed! Please log in.";
+            return RedirectToAction("FarmerLogin");
+        }
+
+        ViewBag.Error = "No farmer account found with that email. Please contact support or your assigned employee.";
+        return View(model);
+    }
+
 }

@@ -10,6 +10,7 @@
 }
 
 <form method="post" action="@Url.Action("ValidateFarmerLogin", "Farmer")">
+    <p>Don't have a password? <a href="@Url.Action("RegisterFarmer", "Farmer")">Complete your registration here</a></p>
     <div class="form-group">
         <label for="email">Email</label>
         <input type="email" id="email" name="Email" required />

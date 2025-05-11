@@ -11,6 +11,7 @@ public class EmployeeController : Controller
         _context = context;
     }
 
+    [HttpGet]
     public IActionResult EmployeeLogin()
     {
         return View();
@@ -19,9 +20,13 @@ public class EmployeeController : Controller
     [HttpPost]
     public IActionResult ValidateEmployeeLogin(string Email, string Password)
     {
-        // Replace this with real database validation later
-        if (Email == "PlaceHolder@employee.com" && Password == "password")
+        var employee = _context.Employees
+            .FirstOrDefault(e => e.Email == Email && e.Password == Password);
+
+        if (employee != null)
         {
+            HttpContext.Session.SetInt32("EmployeeId", employee.Id);
+            HttpContext.Session.SetString("EmployeeEmail", employee.Email);
             return RedirectToAction("EmployeeDashboard");
         }
 
@@ -29,10 +34,13 @@ public class EmployeeController : Controller
         return View("EmployeeLogin");
     }
 
+
     public IActionResult EmployeeDashboard()
     {
-        return View();
+        var farmers = _context.Farmers.ToList();
+        return View(farmers); 
     }
+
 
 
     [HttpGet]

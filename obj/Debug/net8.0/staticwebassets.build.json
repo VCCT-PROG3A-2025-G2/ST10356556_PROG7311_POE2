@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vp26jPdr+jdN5ChazR1z6mH1gstTd3ExFUKTYxm3OC8=",
+  "Hash": "npSF1Rv6JzjjA5sD2kjlu+kzZ7AVnw5+OOvvge4k8n0=",
   "Source": "Agri-Energy Connect",
   "BasePath": "_content/Agri-Energy Connect",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4b4imv86d5",
-      "Integrity": "sGd2EQD9hpDqlPRmeYqOBxZ7GfRaDD0W883xkky8XVQ=",
+      "Fingerprint": "vjtebl7g61",
+      "Integrity": "G1z76+zeqLcqmbII8Eqh0+XIbFZIowjHGYybrB64rr0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1548,51 +1548,6 @@
       ]
     },
     {
-      "Route": "css/site.4b4imv86d5.css",
-      "AssetFile": "C:\\Users\\decla\\Source\\Repos\\PROG7311_POE2\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1906"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sGd2EQD9hpDqlPRmeYqOBxZ7GfRaDD0W883xkky8XVQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:13:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4b4imv86d5"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sGd2EQD9hpDqlPRmeYqOBxZ7GfRaDD0W883xkky8XVQ="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\decla\\Source\\Repos\\PROG7311_POE2\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1603,7 +1558,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1906"
+          "Value": "2115"
         },
         {
           "Name": "Content-Type",
@@ -1611,11 +1566,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sGd2EQD9hpDqlPRmeYqOBxZ7GfRaDD0W883xkky8XVQ=\""
+          "Value": "\"G1z76+zeqLcqmbII8Eqh0+XIbFZIowjHGYybrB64rr0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:13:27 GMT"
+          "Value": "Sun, 11 May 2025 15:26:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1625,7 +1580,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sGd2EQD9hpDqlPRmeYqOBxZ7GfRaDD0W883xkky8XVQ="
+          "Value": "sha256-G1z76+zeqLcqmbII8Eqh0+XIbFZIowjHGYybrB64rr0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vjtebl7g61.css",
+      "AssetFile": "C:\\Users\\decla\\Source\\Repos\\PROG7311_POE2\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G1z76+zeqLcqmbII8Eqh0+XIbFZIowjHGYybrB64rr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 15:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjtebl7g61"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G1z76+zeqLcqmbII8Eqh0+XIbFZIowjHGYybrB64rr0="
         }
       ]
     },

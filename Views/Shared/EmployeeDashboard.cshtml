@@ -1,8 +1,53 @@
-﻿@{
+﻿@model List<Agri_Energy_Connect.Models.Farmer>
+@{
     ViewBag.Title = "Employee Dashboard";
 }
 
-<h2>Employee Dashboard</h2>
+<div class="dashboard-container">
+    <h2>Welcome, Employee</h2>
+    <p class="intro">Manage farmer profiles and review data below.</p>
+    
+    <div class="card-grid">
+        <div class="card">
+            <h3>Add Farmer</h3>
+            <p>Create a new farmer profile with contact and location details.</p>
+            <a href="@Url.Action("AddFarmer", "Employee")" class="btn-primary">Add Farmer</a>
+        </div>
 
-<a href="@Url.Action("AddFarmer", "Employee")" class="btn-primary">Add New Farmer Profile</a>
-<a href="@Url.Action("ViewProducts", "Employee")" class="btn-secondary">View & Filter Farmer Products</a>
+        <div class="card">
+            <h3>View Farmer Products</h3>
+            <p>Browse and filter submitted products by category and date.</p>
+            <a href="@Url.Action("ViewFarmerProducts", "Employee")" class="btn-secondary">View Products</a>
+        </div>
+    </div>
+
+    <hr />
+
+    <h3>📋 All Registered Farmers</h3>
+    @if (Model.Count == 0)
+    {
+        <p>No farmers added yet.</p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Location</th>
+                    <th>Contact</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var farmer in Model)
+                {
+                    <tr>
+                        <td>@farmer.FullName</td>
+                        <td>@farmer.Location</td>
+                        <td>@farmer.Contact</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
