@@ -19,7 +19,7 @@ public class FarmerController : Controller
     }
 
     [HttpPost]
-    public IActionResult ValidateFarmerLogin(string Email, string Password)
+    public IActionResult ValidateFarmerLogin(string Email, string Password)//farmer login validation logic
     {
         var farmer = _context.Farmers
             .FirstOrDefault(f => f.Email == Email && f.Password == Password);
@@ -37,7 +37,7 @@ public class FarmerController : Controller
         return View("FarmerLogin");
     }
 
-    public IActionResult Logout()
+    public IActionResult Logout() //resets the platform when logged out
     {
         HttpContext.Session.Clear(); 
         return RedirectToAction("Index", "Home");
@@ -55,7 +55,7 @@ public class FarmerController : Controller
     }
 
     [HttpPost]
-    public IActionResult AddProduct(Product product)
+    public IActionResult AddProduct(Product product)  //add product to database logic 
     {
         var farmerId = HttpContext.Session.GetInt32("FarmerId");
         if (farmerId == null)
@@ -76,7 +76,7 @@ public class FarmerController : Controller
 
 
 
-    public IActionResult ViewProducts()
+    public IActionResult ViewProducts() //allows farmer to see products associated with themselves
     {
         var farmerId = HttpContext.Session.GetInt32("FarmerId");
         if (farmerId == null)
@@ -99,7 +99,7 @@ public class FarmerController : Controller
     }
 
     [HttpPost]
-    public IActionResult RegisterFarmer(FarmerRegistrationModel model)
+    public IActionResult RegisterFarmer(FarmerRegistrationModel model) //farmer registration method
     {
         if (!ModelState.IsValid)
         {

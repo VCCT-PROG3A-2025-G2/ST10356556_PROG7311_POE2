@@ -1,39 +1,41 @@
 ﻿@model List<Agri_Energy_Connect.Models.Farmer>
 @{
     ViewBag.Title = "Employee Dashboard";
+    var email = ViewBag.EmployeeEmail;
 }
 
 <div class="dashboard-container">
-    <h2>Welcome!!</h2>
-    <p class="intro">Manage farmer profiles and review data below.</p>
-    
+    <div class="dashboard-header">Welcome, @email</div>
+
     <div class="card-grid">
-        <div class="card">
+        <div class="dashboard-card">
             <h3>Add Farmer</h3>
-            <p>Create a new farmer profile with contact and location details.</p>
-            <a href="@Url.Action("AddFarmer", "Employee")" class="btn-primary">Add Farmer</a>
+            <p>Create a new farmer profile with location and contact details.</p>
+            <a class="btn-link" href="@Url.Action("AddFarmer", "Employee")">Add Farmer</a>
         </div>
 
-        <div class="card">
+        <div class="dashboard-card">
             <h3>View Farmer Products</h3>
-            <p>Browse and filter submitted products by category and date.</p>
-            <a href="@Url.Action("ViewProducts", "Employee")" class="btn-secondary">View Products</a>
+            <p>Search and filter products submitted by all registered farmers.</p>
+            <a class="btn-link" href="@Url.Action("ViewFarmerProducts", "Employee")">View Products</a>
         </div>
     </div>
 
     <hr />
 
-    <h3>📋 All Registered Farmers</h3>
+    <div class="dashboard-header" style="margin-top: 30px;">Registered Farmers</div>
+
     @if (Model.Count == 0)
     {
-        <p>No farmers added yet.</p>
+        <p>No farmers have been added yet.</p>
     }
     else
     {
-        <table class="table">
+        <table class="farmer-table">
             <thead>
                 <tr>
-                    <th>Name</th>
+                    <th>Full Name</th>
+                    <th>Email</th>
                     <th>Location</th>
                     <th>Contact</th>
                 </tr>
@@ -43,6 +45,7 @@
                 {
                     <tr>
                         <td>@farmer.FullName</td>
+                        <td>@farmer.Email</td>
                         <td>@farmer.Location</td>
                         <td>@farmer.Contact</td>
                     </tr>

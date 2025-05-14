@@ -3,64 +3,56 @@
     ViewBag.Title = "Farmer Products";
 }
 
-<h2>View Farmer Products</h2>
+<div class="form-container">
+    <h2>My Products</h2>
 
-<form method="get">
-    <fieldset style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
-        <legend><strong>Filter Options</strong></legend>
+    <form method="get" class="filter-form">
+        <input type="text" name="search" placeholder="Search by name..." value="@Context.Request.Query["search"]" />
 
-        <div style="margin-bottom: 10px;">
-            <label>Search by name:</label>
-            <input type="text" name="search" value="@Context.Request.Query["search"]" />
-        </div>
+        <select name="category">
+            <option value="">-- Category --</option>
+            <option value="Fruits" selected="@(Context.Request.Query["category"] == "Fruits")">Fruits</option>
+            <option value="Vegetables" selected="@(Context.Request.Query["category"] == "Vegetables")">Vegetables</option>
+            <option value="Grains" selected="@(Context.Request.Query["category"] == "Grains")">Grains</option>
+            <option value="Dairy" selected="@(Context.Request.Query["category"] == "Dairy")">Dairy</option>
+        </select>
 
-        <div style="margin-bottom: 10px;">
-            <label>Category:</label>
-            <select name="category">
-                <option value="">-- Category --</option>
-                <option value="Fruits" selected="@(Context.Request.Query["category"] == "Fruits")">Fruits</option>
-                <option value="Vegetables" selected="@(Context.Request.Query["category"] == "Vegetables")">Vegetables</option>
-                <option value="Grains" selected="@(Context.Request.Query["category"] == "Grains")">Grains</option>
-                <option value="Dairy" selected="@(Context.Request.Query["category"] == "Dairy")">Dairy</option>
-            </select>
-        </div>
+        <label>From:</label>
+        <input type="date" name="fromDate" value="@Context.Request.Query["fromDate"]" />
 
-        <div style="margin-bottom: 10px;">
-            <label>From:</label>
-            <input type="date" name="fromDate" value="@Context.Request.Query["fromDate"]" />
+        <label>To:</label>
+        <input type="date" name="toDate" value="@Context.Request.Query["toDate"]" />
 
-            <label style="margin-left: 10px;">To:</label>
-            <input type="date" name="toDate" value="@Context.Request.Query["toDate"]" />
-        </div>
+        <button type="submit" class="btn-link">Filter</button>
+        <a href="@Url.Action("ViewFarmerProducts", "Employee")" class="btn-link" style="background-color: #aaa;">Clear</a>
+    </form>
 
-        <button type="submit" class="btn btn-success">Filter</button>
-        <a href="@Url.Action("ViewProducts", "Employee")" class="btn btn-secondary" style="margin-left: 10px;">Clear Filters</a>
-    </fieldset>
-</form>
+    <hr />
 
-@if (Model.Count == 0)
-{
-    <p>No products found.</p>
-}
-else
-{
-    <table style="width: 100%; border-collapse: collapse;">
-        <thead style="background-color: #f0f0f0;">
-            <tr>
-                <th style="padding: 8px; border: 1px solid #ccc;">Name</th>
-                <th style="padding: 8px; border: 1px solid #ccc;">Category</th>
-                <th style="padding: 8px; border: 1px solid #ccc;">Production Date</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var p in Model)
-            {
+    @if (Model.Count == 0)
+    {
+        <p>No products found.</p>
+    }
+    else
+    {
+        <table class="farmer-table">
+            <thead>
                 <tr>
-                    <td style="padding: 8px; border: 1px solid #ccc;">@p.ProductName</td>
-                    <td style="padding: 8px; border: 1px solid #ccc;">@p.Category</td>
-                    <td style="padding: 8px; border: 1px solid #ccc;">@p.ProductionDate.ToShortDateString()</td>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Production Date</th>
                 </tr>
-            }
-        </tbody>
-    </table>
-}
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.ProductName</td>
+                        <td>@p.Category</td>
+                        <td>@p.ProductionDate.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

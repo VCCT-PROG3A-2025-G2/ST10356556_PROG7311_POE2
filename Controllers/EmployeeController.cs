@@ -18,7 +18,7 @@ public class EmployeeController : Controller
     }
 
     [HttpPost]
-    public IActionResult ValidateEmployeeLogin(string Email, string Password)
+    public IActionResult ValidateEmployeeLogin(string Email, string Password) //checks entered credentials against employees in database
     {
         var employee = _context.Employees
             .FirstOrDefault(e => e.Email == Email && e.Password == Password);
@@ -35,7 +35,7 @@ public class EmployeeController : Controller
     }
 
 
-    public IActionResult EmployeeDashboard()
+    public IActionResult EmployeeDashboard()  //dislpays employee dashboard
     {
         var farmers = _context.Farmers.ToList();
         return View(farmers);
@@ -55,7 +55,7 @@ public class EmployeeController : Controller
     }
 
     [HttpPost]
-    public IActionResult AddFarmer(Farmer farmer)
+    public IActionResult AddFarmer(Farmer farmer) //add farmer logic for employee
     {
         if (ModelState.IsValid)
         {
@@ -67,7 +67,7 @@ public class EmployeeController : Controller
         return View();
     }
 
-    public IActionResult ViewProducts(string search, string category, DateTime? fromDate, DateTime? toDate)
+    public IActionResult ViewProducts(string search, string category, DateTime? fromDate, DateTime? toDate) //gets product details when requested by employee
     {
         var query = _context.Products.AsQueryable();
 

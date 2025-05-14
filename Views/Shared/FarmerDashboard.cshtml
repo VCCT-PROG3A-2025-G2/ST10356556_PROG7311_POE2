@@ -1,7 +1,22 @@
 ﻿@{
     ViewBag.Title = "Farmer Dashboard";
+    var email = Context.Session.GetString("FarmerEmail");
 }
 
-<h2>Farmer Dashboard</h2>
-<p>Welcome! Here you’ll eventually be able to manage your profile and view your listed products.</p>
-<a href="@Url.Action("AddProduct", "Farmer")" class="btn-primary">Add New Product</a>
+<div class="dashboard-container">
+    <div class="dashboard-header">Welcome, @email</div>
+
+    <div class="card-grid">
+        <div class="dashboard-card">
+            <h3>Add Product</h3>
+            <p>Submit a new agricultural product to your inventory.</p>
+            <a class="btn-link" href="@Url.Action("AddProduct", "Farmer")">Add Product</a>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>View My Products</h3>
+            <p>See all the products you’ve submitted and when they were added.</p>
+            <a class="btn-link" href="@Url.Action("ViewFarmerProducts", "Farmer")">View Products</a>
+        </div>
+    </div>
+</div>

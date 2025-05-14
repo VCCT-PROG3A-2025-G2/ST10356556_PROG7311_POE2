@@ -1,32 +1,38 @@
 ﻿@model Agri_Energy_Connect.Models.Product
-
-<h2>Add Product</h2>
-
-@if (ViewBag.Message != null)
-{
-    <div style="color: green;">@ViewBag.Message</div>
+@{
+    ViewBag.Title = "Add Product";
 }
 
-<form asp-action="AddProduct" method="post">
-    <div>
-        <label>Product Name</label>
-        <input asp-for="ProductName" />
-    </div>
+<div class="form-container">
+    <h2>Add New Product</h2>
 
-    <div>
-        <label>Category</label>
-        <select asp-for="Category">
-            <option>Fruits</option>
-            <option>Vegetables</option>
-            <option>Grains</option>
-            <option>Dairy</option>
-        </select>
-    </div>
+    @if (ViewBag.Message != null)
+    {
+        <div class="success-message">@ViewBag.Message</div>
+    }
 
-    <div>
-        <label>Production Date</label>
-        <input asp-for="ProductionDate" type="date" />
-    </div>
+    <form asp-action="AddProduct" method="post">
+        <div class="form-group">
+            <label asp-for="ProductName"></label>
+            <input asp-for="ProductName" class="form-input" required />
+        </div>
 
-    <button type="submit">Submit</button>
-</form>
+        <div class="form-group">
+            <label asp-for="Category"></label>
+            <select asp-for="Category" class="form-input" required>
+                <option value="">-- Select Category --</option>
+                <option value="Fruits">Fruits</option>
+                <option value="Vegetables">Vegetables</option>
+                <option value="Grains">Grains</option>
+                <option value="Dairy">Dairy</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductionDate"></label>
+            <input asp-for="ProductionDate" class="form-input" type="date" required />
+        </div>
+
+        <button type="submit" class="btn-link">Submit Product</button>
+    </form>
+</div>

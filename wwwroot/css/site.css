@@ -120,3 +120,139 @@ input[type="email"], input[type="password"] {
         text-align: left;
     }
 
+.dashboard-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.dashboard-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.card-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.dashboard-card {
+    flex: 1 1 calc(50% - 20px);
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    text-align: left;
+    min-width: 250px;
+}
+
+    .dashboard-card h3 {
+        margin-top: 0;
+        color: #2d6a4f;
+    }
+
+    .dashboard-card p {
+        margin: 10px 0 20px;
+    }
+
+.btn-link {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #40916c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+    .btn-link:hover {
+        background-color: #2d6a4f;
+    }
+.farmer-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+    .farmer-table th,
+    .farmer-table td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .farmer-table th {
+        background-color: #e0f2e9;
+        color: #2d6a4f;
+    }
+.form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+    .form-container h2 {
+        margin-bottom: 20px;
+        color: #2d6a4f;
+    }
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-input, select, input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.success-message {
+    color: green;
+    margin-bottom: 15px;
+}
+
+.btn-link {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #40916c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+    .btn-link:hover {
+        background-color: #2d6a4f;
+    }
+
+.filter-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.farmer-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .farmer-table th,
+    .farmer-table td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .farmer-table th {
+        background-color: #e0f2e9;
+        color: #2d6a4f;
+    }
