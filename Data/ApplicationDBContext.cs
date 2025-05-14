@@ -4,7 +4,7 @@ using Agri_Energy_Connect.Models;
 
 public class ApplicationDbContext : DbContext
 {
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) //Database method
         : base(options) { }
 
     public DbSet<Employee> Employees { get; set; }
