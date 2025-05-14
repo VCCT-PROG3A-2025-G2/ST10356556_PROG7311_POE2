@@ -1,3 +1,10 @@
+//References//
+//https://learn.microsoft.com/en-us/ef/core/dbcontext-configuration/
+//http://sololearn.com/en/Discuss/2552390/how-to-link-c-with-html
+//https://learn.microsoft.com/en-us/ef/core/
+
+
+
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Agri_Energy_Connect.Data;
