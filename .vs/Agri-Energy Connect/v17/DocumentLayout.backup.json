@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\registerfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\registerfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\farmerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\migrations\\20250624142957_initsqliteclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:migrations\\20250624142957_initsqliteclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142809_InitSqliteFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250624142809_InitSqliteFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142544_UpdatedFarmerModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250624142544_UpdatedFarmerModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\farmerregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\farmerregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,32 +35,84 @@
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624141824_InitSqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250624141824_InitSqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\registerfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\registerfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\models\\farmerregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:models\\farmerregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\farmerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -109,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|c:\\users\\decla\\source\\repos\\prog7311_poe2\\migrations\\20250511154941_addemailtofarmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5B319F-5AE9-4A71-94E3-A9251A2F2CCD}|Agri-Energy Connect.csproj|solutionrelative:migrations\\20250511154941_addemailtofarmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -124,6 +144,23 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\EmployeeLogin.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeLogin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\EmployeeLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:18:54.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:848608614:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -149,227 +186,187 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterFarmer.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterFarmer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\RegisterFarmer.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterFarmer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\RegisterFarmer.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T14:07:02.943Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1178418215:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\AddProduct.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddProduct.cshtml",
-              "RelativeToolTip": "Views\\Shared\\AddProduct.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T17:45:15.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeDashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\EmployeeDashboard.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeDashboard.cshtml",
-              "RelativeToolTip": "Views\\Shared\\EmployeeDashboard.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:47:27.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FarmerDashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerDashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FarmerDashboard.cshtml",
               "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerDashboard.cshtml",
               "RelativeToolTip": "Views\\Shared\\FarmerDashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T17:07:23.637Z",
+              "WhenOpened": "2025-06-24T14:49:00.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\RegisterUser.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterUser.cshtml",
-              "RelativeToolTip": "Views\\Shared\\RegisterUser.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T15:45:17.865Z",
+              "DocumentIndex": 2,
+              "Title": "20250624142957_InitSqliteClean.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142957_InitSqliteClean.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250624142957_InitSqliteClean.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142957_InitSqliteClean.cs",
+              "RelativeToolTip": "Migrations\\20250624142957_InitSqliteClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:29:57.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:30:08.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddFarmer.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddFarmer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\AddFarmer.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddFarmer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\AddFarmer.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Title": "ViewProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\ViewProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\ViewProducts.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\ViewProducts.cshtml",
+              "RelativeToolTip": "Views\\Shared\\ViewProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:53:38.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeLogin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\EmployeeLogin.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeLogin.cshtml",
-              "RelativeToolTip": "Views\\Shared\\EmployeeLogin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:18:54.645Z",
+              "WhenOpened": "2025-05-10T16:53:49.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FarmerLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\FarmerLogin.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
-              "RelativeToolTip": "Views\\Shared\\FarmerLogin.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:32:34.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FarmerRegistrationModel.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\FarmerRegistrationModel.cs",
-              "RelativeDocumentMoniker": "Models\\FarmerRegistrationModel.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\FarmerRegistrationModel.cs",
-              "RelativeToolTip": "Models\\FarmerRegistrationModel.cs",
+              "Title": "20250624142809_InitSqliteFixed.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142809_InitSqliteFixed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250624142809_InitSqliteFixed.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142809_InitSqliteFixed.cs",
+              "RelativeToolTip": "Migrations\\20250624142809_InitSqliteFixed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:06:02.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T14:28:10.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegistrationModel.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\RegistrationModel.cs",
-              "RelativeDocumentMoniker": "Models\\RegistrationModel.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\RegistrationModel.cs",
-              "RelativeToolTip": "Models\\RegistrationModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20250624142544_UpdatedFarmerModel.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142544_UpdatedFarmerModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250624142544_UpdatedFarmerModel.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624142544_UpdatedFarmerModel.cs",
+              "RelativeToolTip": "Migrations\\20250624142544_UpdatedFarmerModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:47:49.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T14:25:44.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:27:25.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:10:04.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "authController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\authController.cs",
-              "RelativeDocumentMoniker": "Controllers\\authController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\authController.cs",
-              "RelativeToolTip": "Controllers\\authController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:50:53.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Products.cs",
               "RelativeDocumentMoniker": "Models\\Products.cs",
               "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Products.cs",
               "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:10:24.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Farmer.cs",
+              "RelativeToolTip": "Models\\Farmer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:10:13.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:10:24.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T18:09:11.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20250511154941_AddEmailToFarmer.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250511154941_AddEmailToFarmer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250511154941_AddEmailToFarmer.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250511154941_AddEmailToFarmer.cs",
-              "RelativeToolTip": "Migrations\\20250511154941_AddEmailToFarmer.cs",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:49:41.6Z"
+              "WhenOpened": "2025-05-14T19:36:15.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T15:57:23.631Z"
+              "DocumentIndex": 7,
+              "Title": "authController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\authController.cs",
+              "RelativeDocumentMoniker": "Controllers\\authController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\authController.cs",
+              "RelativeToolTip": "Controllers\\authController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:50:53.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:10:04.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "Controllers\\FarmerController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:27:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:47:49.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250624141824_InitSqlite.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624141824_InitSqlite.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250624141824_InitSqlite.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Migrations\\20250624141824_InitSqlite.cs",
+              "RelativeToolTip": "Migrations\\20250624141824_InitSqlite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:18:24.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -381,19 +378,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Farmer.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Farmer.cs",
-              "RelativeDocumentMoniker": "Models\\Farmer.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\Farmer.cs",
-              "RelativeToolTip": "Models\\Farmer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:10:13.861Z"
+              "WhenOpened": "2025-05-14T14:21:55.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "AddFarmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddFarmer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\AddFarmer.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddFarmer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\AddFarmer.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T20:19:03.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:09:33.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\AddProduct.cshtml",
+              "RelativeToolTip": "Views\\Shared\\AddProduct.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T17:45:15.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterFarmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterFarmer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\RegisterFarmer.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterFarmer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\RegisterFarmer.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T14:07:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FarmerRegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\FarmerRegistrationModel.cs",
+              "RelativeDocumentMoniker": "Models\\FarmerRegistrationModel.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Models\\FarmerRegistrationModel.cs",
+              "RelativeToolTip": "Models\\FarmerRegistrationModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:06:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEUAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:27:25.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:57:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FarmerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\FarmerLogin.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\FarmerLogin.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:32:34.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\RegisterUser.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\RegisterUser.cshtml",
+              "RelativeToolTip": "Views\\Shared\\RegisterUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T15:45:17.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\EmployeeDashboard.cshtml",
+              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\EmployeeDashboard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\EmployeeDashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:47:27.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -405,43 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FarmerController.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\FarmerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FarmerController.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Controllers\\FarmerController.cs",
-              "RelativeToolTip": "Controllers\\FarmerController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA5wCwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:27:39.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:09:11.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ViewProducts.cshtml",
-              "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\ViewProducts.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\ViewProducts.cshtml",
-              "ToolTip": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\ViewProducts.cshtml",
-              "RelativeToolTip": "Views\\Shared\\ViewProducts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:53:49.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -453,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -465,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "FarmerLogin.cshtml",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\FarmerLogin.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FarmerLogin.cshtml",
@@ -477,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -489,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\decla\\source\\repos\\PROG7311_POE2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
